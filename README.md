@@ -94,9 +94,9 @@ Input (`sample.csv`):
 
 ```
 name, age, join date
-Pratik, 21, 2023-01-10
-Amit,, 2022-05-15
-Riya, 22,
+Pratik, 20, 2023-01-10
+Janhavi,, 2022-05-15
+Sakshi, 22,
 ```
 
 Output (`output.xlsx`):
