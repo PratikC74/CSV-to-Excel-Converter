@@ -1,0 +1,4 @@
+2026-04-07 15:33:51,575 - INFO - Reading file:sample.csv
+2026-04-07 15:33:51,607 - ERROR - Error : No module named 'openpyxl'
+2026-04-07 15:35:24,472 - INFO - Reading file:sample.csv
+2026-04-07 15:35:24,676 - INFO - Successfully converted to output.xlsx
